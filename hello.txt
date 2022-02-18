@@ -1,3 +1,7 @@
 hai friends
 This is ramshi
+<<<<<<< HEAD
 I am fine
+=======
+how are you
+>>>>>>> feature
